@@ -1,6 +1,7 @@
 # Matheus Veloso Lino de Souza 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Veloso-Lino&theme=transparent&bg_color=000&border_color=211C84&show_icons=true&icon_color=211C84&title_color=4D55CC&text_color=FFF)
+![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Matheus-Veloso-Lino&show_icons=true&theme=transparent&bg_color=000000&title_color=4D55CC&icon_color=211C84&border_color=211C84&text_color=FFFFFF)
+
 
 <div style="display: inline_block"><br>
   <img align= "center" alt="Matheus-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
